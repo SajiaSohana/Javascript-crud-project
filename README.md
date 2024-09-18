@@ -6,7 +6,7 @@
 <br>
 
 
-<img src="./img/CRUD with Pagination.png">
+<img src="./img/js crud project.png">
 
 
 
